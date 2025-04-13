@@ -1,0 +1,10 @@
+body{
+    background-color: #debd5e;
+}
+
+img
+{
+    width: 75vw;
+    height: 75vw;
+    display: block;
+}
